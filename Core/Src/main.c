@@ -59,7 +59,6 @@ uint64_t _micro = 0;
 uint64_t TimeOutputLoop = 0;
 
 float VoltageFeedback = 0;
-
 float VoltageSource = 3.3;
 float VoltageReference = 1.0;
 float VoltageError = 0;
